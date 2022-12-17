@@ -10,7 +10,7 @@
 
 
 ### About Me 
-Hi, I'm Akul Gupta, a student at The University of Illinois Urbana-Champaign. I'm currentlt majoring in Computer Science in the Grainger College of Engineering with a minor in Statistics. 
+Hi, I'm Akul Gupta, a student at The University of Illinois Urbana-Champaign. I'm currently majoring in Computer Science at the Grainger College of Engineering with a minor in Statistics. 
 
 ### Technologies 👨‍💻
 
